@@ -28,7 +28,7 @@ namespace Inheritance
             //// child class object cannot be created from base class constructor
             //// conversion (base class constructor does not have child class properties)
             //Student student1 = new ContactDetail();
-
+            // some more detail are added.
 
             Application.Run(new Form1());
 
