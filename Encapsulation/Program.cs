@@ -19,6 +19,7 @@ namespace Encapsulation
 
             BankAccount bankAccount = new BankAccount();
             bankAccount.SetTitle("Muhammad Arsalan");
+            bankAccount.SetType("Current");
 
 
             Application.Run(new Form1());
